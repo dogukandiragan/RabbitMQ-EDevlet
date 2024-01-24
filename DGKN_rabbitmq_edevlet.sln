@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGKN_rabbitmq_edevlet.Main", "DGKN_rabbitmq_edevlet.Main\DGKN_rabbitmq_edevlet.Main\DGKN_rabbitmq_edevlet.Main.csproj", "{0AFD6808-E3F8-42FC-9260-F141BD3DA32F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGKN_rabbitmq_edevlet.Creator", "DGKN_rabbitmq_edevlet.Creator\DGKN_rabbitmq_edevlet.Creator\DGKN_rabbitmq_edevlet.Creator.csproj", "{7900CC7A-C003-48A0-98BB-02967E389129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFD6808-E3F8-42FC-9260-F141BD3DA32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFD6808-E3F8-42FC-9260-F141BD3DA32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFD6808-E3F8-42FC-9260-F141BD3DA32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFD6808-E3F8-42FC-9260-F141BD3DA32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7900CC7A-C003-48A0-98BB-02967E389129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7900CC7A-C003-48A0-98BB-02967E389129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7900CC7A-C003-48A0-98BB-02967E389129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7900CC7A-C003-48A0-98BB-02967E389129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E348B71-F35A-4618-A718-7074233086BD}
+	EndGlobalSection
+EndGlobal
